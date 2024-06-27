@@ -16,4 +16,4 @@
 
 ## Curso: 8 - Git y GitHub: Repositorio, Commit y Versiones
 
-## Curso: 9 - 
+## Curso: 9 - Prácticando lógica de programación: Challenge Encriptador de texto
