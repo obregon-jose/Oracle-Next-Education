@@ -14,6 +14,6 @@
 
 ### Curso: 7 - HTML y CSS: Trabajando con responsividad y publicación de proyectos
 
-## Curso: 8 - 
+## Curso: 8 - Git y GitHub: Repositorio, Commit y Versiones
 
 ## Curso: 9 - 
