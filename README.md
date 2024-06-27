@@ -2,22 +2,18 @@
 
 ## Curso: 1 - Lógica de programación: sumérgete en la programación con JavaScript!
 
-<!-- [Encabezado con el logo o imagen del proyecto](./images/python.png) -->
+### Curso: 2 - Lógica de programación: explorar funciones y listas
 
-## Curso: 2 - Lógica de programación: explorar funciones y listas
+## Curso: 3 - ChatGPT: Optimizando la calidad de los resultados
 
-<!-- 
-[Encabezado con el logo o imagen del proyecto](./images/python.png)
+## Curso: 4 - HTML y CSS: Ambientes de desarrollo, estructura de archivos y tags
 
-# Fundamentos de Programación Orientada a Objetos con Python
+### Curso: 5 - HTML y CSS: Clases, Posicionamiento y Flexbox
 
-Bienvenido al repositorio del curso de Fundamentos de Programación Orientada a Objetos con Python. Este curso tiene como objetivo principal introducirte al lenguaje de programación Python, enfocándose en la programación orientada a objetos. Aquí encontrarás todos los proyectos y ejercicios realizados durante el curso.
+### Curso: 6 - HTML y CSS: Header, Footer y Variables CSS
 
-## Índice de Contenidos
+### Curso: 7 - HTML y CSS: Trabajando con responsividad y publicación de proyectos
 
-1. [Listas y Diccionarios](./diccionarios/notas.py) - Gestión de Diccionarios y Listas.
+## Curso: 8 - 
 
-## Descripción de Ejercicios
-
-- **Listas y Diccionarios**: Programa que permite registrar estudiantes y sus respectivas notas (3 notas), puede modificarlas y finalmente calcula la nota final. -->
-
+## Curso: 9 - 
